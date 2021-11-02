@@ -26,9 +26,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, My Name is {}!** 
-I am an **SUPERB**  group management bot.
-You can find the list of available commands with /help.
+**Hello {}, I Am A Power Ful Group Manager Bot Maintained by ELECTRO444.
+
+My future updates will be put into This Channel - @eofamilyff & My Support Group @eosupportff.
+
+For more commands click /help...
+
+Bot Owner @ELECTRO444.
 
 """
 
